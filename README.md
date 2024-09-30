@@ -26,5 +26,5 @@ You can install dependencies using `pip`.
 2. **Install the dependencies**
    ```bash
    pip install -r requirements.txt
-   ```
-3. 
+   
+ 
